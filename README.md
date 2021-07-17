@@ -1,8 +1,8 @@
 # TIKU
 
-Nama     : Rafika Fitri Hidayati
-Nim      : A11.2019.11769
-Kelompok : A11.4423
+ Nama     : Rafika Fitri Hidayati
+ Nim      : A11.2019.11769
+ Kelompok : A11.4423
 
 # Tema	: 
 Tiket Bioskop Kampus Udinus (TIKU)
